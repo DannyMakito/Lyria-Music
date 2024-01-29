@@ -1,2 +1,2 @@
 # Lyria-Music
-Lyria is a music and podcast application
+Lyria is a music streaming and podcast application
